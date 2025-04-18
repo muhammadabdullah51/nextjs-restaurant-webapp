@@ -6,7 +6,7 @@ import NavBar from './NavBar'
 const Banner = () => {
     return (
         <>
-            <NavBar />
+            {/* <NavBar /> */}
             <HeroSection />
         </>
     )
